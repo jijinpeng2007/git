@@ -14,5 +14,5 @@ __pycache__/
 *.pyc
 .env
 
-# WorkBuddy 本地缓存（不入库）
-.workbuddy/cache/
+# WorkBuddy 本地数据（不入库）
+.workbuddy/
